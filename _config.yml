@@ -1,0 +1,14 @@
+layout_spectrum: 0.8700841371901333
+typography_spectrum: 0.4797834544442594
+color:
+  brandStrength: 0.7107106761541218
+  lightness: 0.20837629726156592
+  saturation: 0.17917019501328468
+  rhythmicContrast: 0.46901494753547013
+  brandColors:
+    - '#334D5C'
+    - '#45B29D'
+    - '#EFC94C'
+    - '#E27A3F'
+    - '#DF5A49'
+name: MeFirst
